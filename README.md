@@ -1,6 +1,7 @@
 ## <Olá> Seja bem vindo(a) ao meu repositório!! 👋
 
-🌍  Eu sou um desenvolvedor full stack.
+### :nerd_face: Desenvolvendo com entusiamos como Full Stack.
+##### 🌍  Estou envolvido em todas as etapas do ciclo de vida do desenvolvimento de software, utilizando tecnologias como .NET, C#, React e SQL para criar soluções inovadoras e eficazes.
 
 ## Skills
 ### Front-end
@@ -8,7 +9,9 @@
 ### Back-end
 [![My Skills](https://skillicons.dev/icons?i=cs,nodejs,dotnet,mysql)](https://skillicons.dev)
 
-##Socials
+
+
+## Socials
 
 <!--
 **RogerioCordeiro/RogerioCordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
