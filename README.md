@@ -1,4 +1,14 @@
-## Hi there 👋
+## <Olá> Seja bem vindo(a) ao meu repositório!! 👋
+
+🌍  Eu sou um desenvolvedor full stack.
+
+## Skills
+### Front-end
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,yarn,npm,vite,ts&perline=3)](https://skillicons.dev)
+### Back-end
+[![My Skills](https://skillicons.dev/icons?i=cs,nodejs,dotnet,mysql)](https://skillicons.dev)
+
+##Socials
 
 <!--
 **RogerioCordeiro/RogerioCordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
