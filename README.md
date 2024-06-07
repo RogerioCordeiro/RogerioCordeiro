@@ -4,7 +4,7 @@
 
 ## Skills
 ### Front-end
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,yarn,npm,vite,ts&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts, ,html,css, ,react,redux,nodejs,yarn,npm,vite&perline=5)](https://skillicons.dev)
 ### Back-end
 [![My Skills](https://skillicons.dev/icons?i=cs,nodejs,dotnet,mysql)](https://skillicons.dev)
 
