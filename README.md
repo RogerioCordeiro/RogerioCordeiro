@@ -10,14 +10,30 @@ Profissional apaixonado pela arte da programação, dedicado à busca incessante
 
 # Skills
 ## Front-end
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,yarn,npm,vite&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=react,next,nodejs)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss,redux)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=yarn,npm,vite)](https://skillicons.dev)
+
+
 ## Back-end
-[![My Skills](https://skillicons.dev/icons?i=cs,nodejs,dotnet,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=py,nodejs)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 
+## Outras
+[![My Skills](https://skillicons.dev/icons?i=git,azure)](https://skillicons.dev) &emsp;
 
 # Socials
+<div id="badges">
+  <a href="https://www.linkedin.com/in/rogerio-ap-cordeiro/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
+# Meu Site
+<div id="badges">
+  <a href="https://rogeriocordeiro.github.io/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+     <!-- <p>https://rogeriocordeiro.github.io/</p> -->
+  </a>
+</div>
 <!--
 **RogerioCordeiro/RogerioCordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
