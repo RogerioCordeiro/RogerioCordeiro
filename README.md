@@ -10,7 +10,7 @@ Profissional apaixonado pela arte da programação, dedicado à busca incessante
 
 # Skills
 ## Front-end
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=react,next,nodejs)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss,redux)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=yarn,npm,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=react,next,nodejs)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=yarn,npm,vite)](https://skillicons.dev)
 
 
 ## Back-end
