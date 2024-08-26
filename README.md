@@ -1,4 +1,4 @@
-# <Olá> Seja bem vindo(a) ao meu repositório!! 👋
+# <Olá> Seja bem vindo(a)!! 👋
 
 :nerd_face: Desenvolvendo com entusiamos como Full Stack.
 
