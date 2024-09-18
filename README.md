@@ -7,6 +7,7 @@
 ## Sobre min
 Profissional apaixonado pela arte da programação, dedicado à busca incessante por conhecimento e aprimoramento. Constantemente atraído pelo novo, busco explorar e assimilar novos desafios e conceitos, enriquecendo minha jornada profissional com aprendizados e descobertas constantes.
 
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 
 # Skills
 ## Front-end
